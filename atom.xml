@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kodikos</title>
+  
+  <subtitle>The innovative logic learning game</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://masterkodikos.github.io/"/>
+  <updated>2019-09-09T00:49:37.252Z</updated>
+  <id>http://masterkodikos.github.io/</id>
+  
+  <author>
+    <name>Supergeeks Morumbi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://masterkodikos.github.io/2019/09/08/hello-world/"/>
+    <id>http://masterkodikos.github.io/2019/09/08/hello-world/</id>
+    <published>2019-09-08T21:18:09.773Z</published>
+    <updated>2019-09-09T00:49:37.252Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to kódikos!!! We will be explaining everything soon!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to kódikos!!! We will be explaining everything soon!&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
